@@ -1,0 +1,51 @@
+
+img{
+    height: 200px;
+    width:200px;
+}
+.container{
+    height: 2000px;
+
+   
+}
+h1{
+    color:rgb(16, 93, 119)
+}
+.cardcon{
+    background-color:white;
+    border-radius:8px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap:20px;
+    text-align: center;
+
+}
+.cards{
+    height: 520px;
+    width:300px;
+    border:solid 2px gray;
+    border-radius: 8px;
+    border-color:gray;
+   
+
+
+    
+}
+.desc{
+    height:70px;
+    overflow:hidden;
+}
+.desc:hover{
+    overflow:auto;
+    cursor: pointer;
+    scrollbar-width:none;
+}
+.rate{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+b{
+    font-size:20px;
+}
