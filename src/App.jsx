@@ -5,7 +5,7 @@
 
 
 // import Nav from "./componets/header/header";
-
+import Cards from "./componets/cards";
 // function App() {
 //   const [count, setCount] = useState(0)
 
